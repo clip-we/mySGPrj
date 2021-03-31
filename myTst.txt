@@ -1,4 +1,4 @@
 abcd % modify files in simulink project
 efgh % modify files in Git
 
-abcdefww % modify files in simulink project again
+abcd % modify files in simulink project again
