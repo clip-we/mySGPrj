@@ -1,5 +1,5 @@
 abcd % modify files in simulink project
 efgh % modify files in Git
 
-abcde % modify files in simulink project again
+efgh % modify files in Git again
 
