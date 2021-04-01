@@ -3,3 +3,5 @@ efgh % modify files in Git
 
 efghefe  % modify files in Git again
 
+mm  % modify files in Git again 2
+
